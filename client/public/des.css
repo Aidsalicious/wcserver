@@ -1,0 +1,150 @@
+/*Body Design*/
+.container {
+    background-image: linear-gradient(to left, rgb(201, 231, 231), rgb(228, 205, 205), rgb(214, 109, 162));
+}
+/*Past Project Signup x Login */
+.col-md-8 > h2 {
+    margin-left: 56%;
+    width: 300px;
+    font-weight: bold;
+}
+
+.col-md-8 > h1 {
+  margin-left: 56%;
+  width: 300px;
+  font-weight: bold;
+}
+
+.form-group {
+    margin-left: 49%;
+    width: 400px;
+}
+
+.form-single {
+  margin-left: 49%;
+  width: 400px;
+  margin-bottom: 49%;
+}
+
+#app  {
+    background-image: linear-gradient(to left, #005757, rgb(39, 34, 34), rgb(75, 26, 75));
+    height: 200%;
+}
+
+.cancelbtn{
+  background-image: linear-gradient(to left, rgb(228, 205, 205), rgb(214, 109, 162));
+  border: none;
+  color: whitesmoke;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.cancelbtn:hover {
+  background-color: violet;
+}
+
+.signupbtn {
+  background-image: linear-gradient(to left, rgb(228, 205, 205), rgb(214, 109, 162));
+  border: none;
+  color: whitesmoke;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.signupbtn:hover {
+  background-color: violet;
+}
+/*Navbar Design*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-image: linear-gradient(to left, rgb(201, 231, 231), rgb(228, 205, 205), rgb(214, 109, 162));
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #F5F5DC;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+      
+}
+
+li a:hover {
+  background-color: whitesmoke;
+}
+
+/*Pages Design*/
+#welcome {
+  color: bisque;
+}
+
+#hd1, #hd2, #hd3, #hd4 {
+  display: inline-block;
+  width: 25%;
+  padding: 5px;
+}
+
+.banner-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("banner1.jpg");
+  height: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#msg {
+  color: antiquewhite;
+  font-size: 117%;
+}
+
+#ln1, #ln2, #ln3, #ln4, #ln5 {
+  display: inline-block;
+  width: 20%;
+  padding: 10px;
+}
+
+#nw1, #nw2, #nw3, #nw4, #nw5 {
+  display: inline-block;
+  width: 20%;
+  padding: 10px;
+}
+
+button {
+  background-color: #146129; 
+  border: none;
+  color: #eaf2da;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+table {
+  width: 40%;
+}
+
+th, td {
+  color: antiquewhite;
+  font-size: 117%;
+  height: 50px;
+  vertical-align: bottom;
+}
+
+#ply1, #ply2, #ply3, #ply4, #ply5, #ply6 {
+  padding: 10px;
+  width: 20%;
+}
